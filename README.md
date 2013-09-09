@@ -1,4 +1,4 @@
-#Converting a batch of powerpoint or word files to PDF
+#Converting powerpoint/word files to PDF
 
 @version 1.0
 
